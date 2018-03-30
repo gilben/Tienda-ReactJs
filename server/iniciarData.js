@@ -1,5 +1,5 @@
  // JavaScript Document
-var BDTienda = require('./datos/bdtiend.js'),
+var BDTienda = require('./datos/bdtienda.js'),
 	Operaciones = require('./datos/usuariosCRUD.js');
 OpArticulos = require('./datos/articulosCRUD.js');
 
